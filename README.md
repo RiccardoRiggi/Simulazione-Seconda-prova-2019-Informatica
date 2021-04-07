@@ -13,7 +13,7 @@ All'interno del repository troverete il testo e le soluzioni delle simulazioni d
 
 --- 
 ## Informazioni aggiuntive
-Studente: [Riggi Riccardo](https://www.linkedin.com/in/riccardoriggi/)
+Studente: [Riggi Riccardo](https://www.linkedin.com/in/riccardoriggi/) \
 Scuola: [I.I.S. Italo Calvino](http://calvino.ge.it/) - Genova
 
 ---
